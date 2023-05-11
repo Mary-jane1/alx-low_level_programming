@@ -22,7 +22,7 @@ int factorial(int n)
 	{
 	/* Recursively calculate the factoria */
 	/* l by multiplying n with factorial(n - 1) */
-	return n * factorial (n - 1);
+	return (n * factorial(n - 1));
 	}
 	/* Default return statement */
 	return (0);
