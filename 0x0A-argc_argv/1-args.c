@@ -2,8 +2,7 @@
 #include "main.h"
 
 /**
- * The main entry point of the program, which
- * calculates and prints the number of arguments provided.
+ * main - prints the number of arguments provided.
  *
  * @argc: The number of command-line arguments passed to the program.
  * @argv: An array of strings representing the command-line arguments.
